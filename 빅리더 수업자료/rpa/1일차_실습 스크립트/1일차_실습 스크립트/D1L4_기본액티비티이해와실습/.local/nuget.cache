@@ -1,0 +1,109 @@
+{
+  "version": 2,
+  "dgSpecHash": "0lpWki4DX3rP1kRqVVm1Yw5UambH8Wlg2i3yBY2MvZed84CP0EgvW48ZZOaZrh13O/38PF8LFuKr/ftdZEq22Q==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\jhk\\OneDrive\\Desktop\\빅리더 수업자료\\rpa\\1일차_실습 스크립트\\1일차_실습 스크립트\\D1L4_기본액티비티이해와실습\\.local\\",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "filePath": "C:\\Users\\jhk\\OneDrive\\Desktop\\빅리더 수업자료\\rpa\\1일차_실습 스크립트\\1일차_실습 스크립트\\D1L4_기본액티비티이해와실습\\.local",
+      "message": "Unable to resolve 'UiPath.UIAutomation.Activities (= 23.4.6)' for 'net6.0-windows7.0'.",
+      "libraryId": "UiPath.UIAutomation.Activities",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "filePath": "C:\\Users\\jhk\\OneDrive\\Desktop\\빅리더 수업자료\\rpa\\1일차_실습 스크립트\\1일차_실습 스크립트\\D1L4_기본액티비티이해와실습\\.local",
+      "message": "Unable to resolve 'UiPath.System.Activities (= 23.4.3)' for 'net6.0-windows7.0'.",
+      "libraryId": "UiPath.System.Activities",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "filePath": "C:\\Users\\jhk\\OneDrive\\Desktop\\빅리더 수업자료\\rpa\\1일차_실습 스크립트\\1일차_실습 스크립트\\D1L4_기본액티비티이해와실습\\.local",
+      "message": "Unable to resolve 'UiPath.Testing.Activities (= 23.4.1)' for 'net6.0-windows7.0'.",
+      "libraryId": "UiPath.Testing.Activities",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "filePath": "C:\\Users\\jhk\\OneDrive\\Desktop\\빅리더 수업자료\\rpa\\1일차_실습 스크립트\\1일차_실습 스크립트\\D1L4_기본액티비티이해와실습\\.local",
+      "message": "Unable to resolve 'UiPath.Excel.Activities (= 2.20.2)' for 'net6.0-windows7.0'.",
+      "libraryId": "UiPath.Excel.Activities",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "filePath": "C:\\Users\\jhk\\OneDrive\\Desktop\\빅리더 수업자료\\rpa\\1일차_실습 스크립트\\1일차_실습 스크립트\\D1L4_기본액티비티이해와실습\\.local",
+      "message": "Unable to resolve 'UiPath.Mail.Activities (= 1.20.0)' for 'net6.0-windows7.0'.",
+      "libraryId": "UiPath.Mail.Activities",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "filePath": "C:\\Users\\jhk\\OneDrive\\Desktop\\빅리더 수업자료\\rpa\\1일차_실습 스크립트\\1일차_실습 스크립트\\D1L4_기본액티비티이해와실습\\.local",
+      "message": "Unable to resolve 'UiPath.UIAutomation.Activities (= 23.4.6)' for 'net6.0-windows7.0/win10-x64'.",
+      "libraryId": "UiPath.UIAutomation.Activities",
+      "targetGraphs": [
+        "net6.0-windows7.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "filePath": "C:\\Users\\jhk\\OneDrive\\Desktop\\빅리더 수업자료\\rpa\\1일차_실습 스크립트\\1일차_실습 스크립트\\D1L4_기본액티비티이해와실습\\.local",
+      "message": "Unable to resolve 'UiPath.System.Activities (= 23.4.3)' for 'net6.0-windows7.0/win10-x64'.",
+      "libraryId": "UiPath.System.Activities",
+      "targetGraphs": [
+        "net6.0-windows7.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "filePath": "C:\\Users\\jhk\\OneDrive\\Desktop\\빅리더 수업자료\\rpa\\1일차_실습 스크립트\\1일차_실습 스크립트\\D1L4_기본액티비티이해와실습\\.local",
+      "message": "Unable to resolve 'UiPath.Testing.Activities (= 23.4.1)' for 'net6.0-windows7.0/win10-x64'.",
+      "libraryId": "UiPath.Testing.Activities",
+      "targetGraphs": [
+        "net6.0-windows7.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "filePath": "C:\\Users\\jhk\\OneDrive\\Desktop\\빅리더 수업자료\\rpa\\1일차_실습 스크립트\\1일차_실습 스크립트\\D1L4_기본액티비티이해와실습\\.local",
+      "message": "Unable to resolve 'UiPath.Excel.Activities (= 2.20.2)' for 'net6.0-windows7.0/win10-x64'.",
+      "libraryId": "UiPath.Excel.Activities",
+      "targetGraphs": [
+        "net6.0-windows7.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "filePath": "C:\\Users\\jhk\\OneDrive\\Desktop\\빅리더 수업자료\\rpa\\1일차_실습 스크립트\\1일차_실습 스크립트\\D1L4_기본액티비티이해와실습\\.local",
+      "message": "Unable to resolve 'UiPath.Mail.Activities (= 1.20.0)' for 'net6.0-windows7.0/win10-x64'.",
+      "libraryId": "UiPath.Mail.Activities",
+      "targetGraphs": [
+        "net6.0-windows7.0/win10-x64"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+from tkinter import *  #gui 쓸때 무조건 씀
+
+window = Tk()
+
+
+
+
+
+
+
+window.mainloop()

@@ -1,0 +1,72 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dblFirstValue&Sequence_1",
+        "dblSecondValue&Sequence_1",
+        "strChosenOperation&Sequence_1",
+        "strExecutionInfo&Sequence_1",
+        "dblResult&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "덧셈_워크플로.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dblFirstValue&Sequence_2",
+        "dblSecondValue&Sequence_2",
+        "strChosenOperation&Sequence_2",
+        "strExecutionInfo&Sequence_2",
+        "dblResult&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "io_strExecutionInfo",
+        "out_dblSum",
+        "in_dblFirstValue",
+        "in_dblSecondValue"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "곱셈_워크플로.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dblFirstValue&Sequence_3",
+        "dblSecondValue&Sequence_3",
+        "strChosenOperation&Sequence_3",
+        "strExecutionInfo&Sequence_3",
+        "dblResult&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_dblmulti",
+        "in_dblSecondValue",
+        "in_dblFirstValue",
+        "io_strExecutionInfo"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "덧셈1_워크플로.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

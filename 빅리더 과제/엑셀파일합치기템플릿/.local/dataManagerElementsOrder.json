@@ -1,0 +1,67 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "CurrentFile&Sequence_9",
+        "dtTemp&Sequence_9"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../찐막합치기.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "CurrentFile&Sequence_9",
+        "dtTemp&Sequence_9"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../막합치기.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "CurrentFile&Sequence_9",
+        "dtTemp&Sequence_9"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "찐막 파일 합치기.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "currentItem&Sequence_1",
+        "liSheetNames&Sequence_1",
+        "dtItem&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "파일합치기2탄.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtTemp&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
